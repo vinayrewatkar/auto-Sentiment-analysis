@@ -1,0 +1,11 @@
++-----------+------------------+
+| Sentiment | Number of Tweets |
++-----------+------------------+
+|  Positive |       106        |
+|  Negative |        51        |
+|  Neutral  |       238        |
+|   Total   |       395        |
+|   Anger   |        9         |
+|  Sadness  |        9         |
+|  Anxiety  |        6         |
++-----------+------------------+
